@@ -186,6 +186,16 @@ h2{
   border-bottom: 2px dashed gold;
 }
 
+.chordpicture{
+  padding-top:100px;
+}
+.archive{
+  padding-top: 30px;
+}
+
+.form-group{
+  padding-top: 30px;
+}
 /*.xxx {
   margin-right: px
 }*/
